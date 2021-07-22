@@ -1,0 +1,13 @@
+@startuml voting_application
+actor user 
+user -> (Home_Page) 
+Home_Page -> (Login) : User Credentials
+Login -> (Home_Page) : Unsuccessful
+Login -> (Verification) :Successful
+Verification -> (Voter_Authentication)
+Voter_Authentication -> (Select_Candidate) : Authentication
+Select_Candidate -> (Logout) : Voting_Done
+Logout -> user
+
+
+@enduml

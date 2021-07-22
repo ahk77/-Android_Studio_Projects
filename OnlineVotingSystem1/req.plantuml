@@ -1,0 +1,10 @@
+@startuml voting_application
+class Technologies_Used{
+    Android Studio
+    Firebase
+    OpenCv
+    Biometrics 
+    Firebase ML Kit
+}
+
+@enduml
