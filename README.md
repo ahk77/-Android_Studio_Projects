@@ -4,7 +4,7 @@ Online_Voting_System
 # Screenshots
 
 
-![Screenshot_2021-07-23-18-53-04-128_com onlie voting onlinevotingsystem](https://user-images.githubusercontent.com/75088097/127883249-c55eb4c5-6b64-4377-90f1-6d0a9a1a3d60.jpg = 250x250)
+![Screenshot_2021-07-23-18-53-04-128_com onlie voting onlinevotingsystem](https://user-images.githubusercontent.com/75088097/127883249-c55eb4c5-6b64-4377-90f1-6d0a9a1a3d60.jpg = 50x50)
 
 ![Screenshot_2021-07-23-18-53-09-192_com onlie voting onlinevotingsystem](https://user-images.githubusercontent.com/75088097/127883326-ffe1c972-224c-4820-8e24-96b749cb7139.jpg)
 
